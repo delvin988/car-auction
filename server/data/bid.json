@@ -1,0 +1,37 @@
+[
+   {
+      "amount": "100000",
+      "UserId": "1",
+      "ItemId": "3"
+   },
+   {
+      "amount": "500000",
+      "UserId": "1",
+      "ItemId": "2"
+   },
+   {
+      "amount": "300000",
+      "UserId": "1",
+      "ItemId": "3"
+   },
+   {
+      "amount": "700000",
+      "UserId": "2",
+      "ItemId": "1"
+   },
+   {
+      "amount": "900000",
+      "UserId": "2",
+      "ItemId": "3"
+   },
+   {
+      "amount": "400000",
+      "UserId": "2",
+      "ItemId": "3"
+   },
+   {
+      "amount": "200000",
+      "UserId": "3",
+      "ItemId": "10"
+   }
+]

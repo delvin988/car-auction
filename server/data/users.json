@@ -1,0 +1,23 @@
+[
+   {
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "jane.smith@example.com",
+      "password": "pass123",
+      "role": "admin"
+   },
+   {
+      "firstname": "Ini",
+      "lastname": "Siapa",
+      "email": "ini.siapa@mail.com",
+      "password": "inisiapa",
+      "role": "bidder"
+   },
+   {
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "testpassword",
+      "role": "bidder"
+   }
+]

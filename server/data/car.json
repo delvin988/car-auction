@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Nissan GT-R Skyline R34",
+      "description": "Legenda mobil sport Jepang yang terkenal dengan kinerja dan keindahannya.",
+      "imageUrl": "https://example.com/nissan_gtr_skyline_r34.jpg",
+      "price": 1200000000
+   },
+   {
+      "name": "Porsche 911",
+      "description": "Ikon mobil sport Jerman dengan desain yang klasik dan performa yang luar biasa.",
+      "imageUrl": "https://example.com/porsche_911.jpg",
+      "price": 1500000000
+   },
+   {
+      "name": "Toyota Supra",
+      "description": "Coupe sport yang legendaris dengan kinerja yang luar biasa.",
+      "imageUrl": "https://example.com/toyota_supra.jpg",
+      "price": 900000000
+   }
+]

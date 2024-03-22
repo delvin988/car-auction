@@ -1,0 +1,50 @@
+[
+  {
+    "name": "2013 Ford Shelby GT500",
+    "description": "A high performance variant of the Ford Mustang, renowned for its powerful 5.8L supercharged V8 engine.",
+    "imageUrl": "https://example.com/2013-ford-shelby-gt500.jpg",
+    "price": 60000
+  },
+  {
+    "name": "2020 Ferrari F8 Tributo",
+    "description": "A mid-engine sports car with a powerful V8 engine, celebrated for its performance and handling.",
+    "imageUrl": "https://example.com/2020-ferrari-f8-tributo.jpg",
+    "price": 280000
+  },
+  {
+    "name": "2023 Audi R8 GT Coupe",
+    "description": "The pinnacle of Audi's sports car lineup, featuring a V10 engine and advanced quattro all-wheel-drive system.",
+    "imageUrl": "https://example.com/2023-audi-r8-gt-coupe.jpg",
+    "price": 200000
+  },
+  {
+    "name": "2010 Chevrolet Camaro SS Transformers Edition coupe",
+    "description": "A special edition Camaro with unique Transformers branding and styling, inspired by the movie franchise.",
+    "imageUrl": "https://example.com/2010-chevrolet-camaro-ss-transformers.jpg",
+    "price": 30000
+  },
+  {
+    "name": "Porsche GT3 RS",
+    "description": "A high performance version of the Porsche 911, known for its track capability and naturally aspirated engine.",
+    "imageUrl": "https://example.com/porsche-gt3-rs.jpg",
+    "price": 190000
+  },
+  {
+    "name": "2016 McLaren 650S GT3",
+    "description": "A race-prepped version of the 650S, designed for GT3 category racing with extensive modifications for competition.",
+    "imageUrl": "https://example.com/2016-mclaren-650s-gt3.jpg",
+    "price": 0
+  },
+  {
+    "name": "Toyota Supra MK5",
+    "description": "The fifth generation of the iconic Supra, developed in collaboration with BMW, known for its performance and handling.",
+    "imageUrl": "https://example.com/toyota-supra-mk5.jpg",
+    "price": 50000
+  },
+  {
+    "name": "Nissan Skyline R34",
+    "description": "The final generation of the Skyline GT-R series, celebrated for its advanced technology and performance in the late 90s.",
+    "imageUrl": "https://example.com/nissan-skyline-r34.jpg",
+    "price": 100000
+  }
+]
